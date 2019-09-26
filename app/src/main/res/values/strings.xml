@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mi Información</string>
+    <string name="Titulo">Hoja de Datos</string>
+    <string name="Tutulo2">Desarrollo de Aplicaciones</string>
+    <string name="Nom">Nombre:</string>
+    <string name="Nombre">Francisco Javier Jiménez Jaimes</string>
+    <string name="Grup">Grupo:</string>
+    <string name="Gru">7T11</string>
+    <string name="Carr">Carrera:</string>
+    <string name="Carrera">Ing. Tecnológias de la Información y Comunicaciones</string>
+    <string name="Tec">Tecnológico:</string>
+    <string name="TESO">Tecnológico de Estudios Superiores del Oriente del Estado de México</string>
+    <string name="Doc">Docente:</string>
+    <string name="Docente">Victor Hugo De la O Martínez</string>
+    <string name="blood">Tipo Sangre:</string>
+    <string name="Tipo">A positivo</string>
+    <string name="Creator">Designed By</string>
+    <string name="yo">Pancho Paco Francisco</string>
+    <string name="Tarea">Tarea día Miercoles 25 de Septiembre de 2019</string>
+</resources>
